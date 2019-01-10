@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e11c4ca3-d0a4-4057-b445-7ac5acd0c42b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:63217/Token/TokenService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TokenService.xsd" MetadataType="Schema" ID="c1a27711-d6c7-4eb5-9a6e-1542ade8be69" SourceId="1" SourceUrl="http://localhost:63217/Token/TokenService.svc?xsd=xsd2" />
+    <MetadataFile FileName="TokenService1.xsd" MetadataType="Schema" ID="e6cdbcc6-c8e9-43ad-908c-2fffc844191d" SourceId="1" SourceUrl="http://localhost:63217/Token/TokenService.svc?xsd=xsd0" />
+    <MetadataFile FileName="TokenService2.xsd" MetadataType="Schema" ID="03c621b6-adce-4a84-a035-02ffc6273878" SourceId="1" SourceUrl="http://localhost:63217/Token/TokenService.svc?xsd=xsd1" />
+    <MetadataFile FileName="TokenService.wsdl" MetadataType="Wsdl" ID="4580e38f-6006-4bb8-af87-8a64bd777592" SourceId="1" SourceUrl="http://localhost:63217/Token/TokenService.svc?wsdl" />
+    <MetadataFile FileName="TokenService.disco" MetadataType="Disco" ID="5656aeb6-3843-4707-845d-f890fea66f03" SourceId="1" SourceUrl="http://localhost:63217/Token/TokenService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

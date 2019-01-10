@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Sistran.SiteWeb.Models.ProdutoViewModel>
+
+@{
+    ViewBag.Title = "Produtos";
+}
+
+<header class="page-header">
+    <h2>Relatório de Produtos</h2>
+</header>
+
+<section class="col-xs-12">
+    <form class="form-horizontal">
+        <div class="row">
+            <div class="form-group col-xs-5">
+                <button class="btn btn-default" type="button" id="btnToken">
+                    Gerar Token
+                </button>
+            </div>
+            <div class="form-group col-xs-5">
+                <label class="control-label">Token: <span id="token"></span></label>
+                <label class="control-label">Token Expira em:<span id="tokenExpire"></span> </label>
+            </div>
+        </div>
+    </form>
+</section>
+<hr />
+
+@using(Html.BeginForm(
+    actionName: "IndexMVC",
+    controllerName: "Produto",
+    method: FormMethod.Post,
+    htmlAttributes: new { @class = "form-horizontal" })) {
+
+    <div class="form-group">
+        <div class="col-xs-2">
+            <button type="submit" class="btn btn-default">
+                Buscar Produtos MVC
+            </button>
+        </div>
+        <div class="col-xs-2">
+            <button type="button" 
+                    class="btn btn-default" 
+                    id="btnProduto">
+                Buscar Produtos Ajax
+            </button>
+        </div>
+    </div>
+}
+
+@if(ViewBag.msgTokenInvalido != null)
+{
+    <div class="alert alert-info">
+        @ViewBag.msgTokenInvalido
+    </div> 
+}
+
+<div class="table-responsive" id="tableProdutos">
+    @if (Model !=  null &&  Model.Any())
+    {
+        @Html.Partial("Table", Model)
+    }
+</div>
+
+@section Scripts {  
+    <script src="~/Scripts/systran.token.js"></script>
+    <script src="~/Scripts/systran.produto.js"></script>
+}

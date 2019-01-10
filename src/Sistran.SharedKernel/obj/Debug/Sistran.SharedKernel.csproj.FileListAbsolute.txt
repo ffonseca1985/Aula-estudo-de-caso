@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.SharedKernel\bin\Debug\Sistran.SharedKernel.dll.config
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.SharedKernel\bin\Debug\Sistran.SharedKernel.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.SharedKernel\bin\Debug\Sistran.SharedKernel.pdb
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.SharedKernel\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.SharedKernel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.SharedKernel\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.SharedKernel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.SharedKernel\obj\Debug\Sistran.SharedKernel.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.SharedKernel\obj\Debug\Sistran.SharedKernel.pdb

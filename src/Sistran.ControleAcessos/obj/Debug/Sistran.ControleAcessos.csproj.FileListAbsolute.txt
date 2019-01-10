@@ -1,0 +1,16 @@
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\bin\Debug\Sistran.ControleAcessos.dll.config
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\bin\Debug\Sistran.ControleAcessos.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\bin\Debug\Sistran.ControleAcessos.pdb
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\bin\Debug\Sistran.SharedKernel.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\bin\Debug\Sistran.SharedKernel.pdb
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\obj\Debug\Sistran.ControleAcessos.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\obj\Debug\Sistran.ControleAcessos.Infraestruture.SqlEntityFramework.Migrations.Inicial.resources
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\obj\Debug\Sistran.ControleAcessos.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\obj\Debug\Sistran.ControleAcessos.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\obj\Debug\Sistran.ControleAcessos.pdb
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\bin\Debug\SimpleInjector.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.ControleAcessos\bin\Debug\SimpleInjector.xml

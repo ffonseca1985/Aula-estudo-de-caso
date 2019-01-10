@@ -1,0 +1,5 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" 
+    Service="Sistran.ControleAcessosService.TokenService" 
+    CodeBehind="TokenService.svc.cs"
+    Factory="SimpleInjector.Integration.Wcf.SimpleInjectorServiceHostFactory,
+        SimpleInjector.Integration.Wcf" %>

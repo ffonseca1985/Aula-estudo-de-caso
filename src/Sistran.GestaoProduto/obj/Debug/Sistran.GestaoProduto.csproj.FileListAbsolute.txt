@@ -1,0 +1,16 @@
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\bin\Debug\Sistran.GestaoProduto.dll.config
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\bin\Debug\Sistran.GestaoProduto.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\bin\Debug\Sistran.GestaoProduto.pdb
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\bin\Debug\SimpleInjector.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\bin\Debug\Sistran.SharedKernel.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\bin\Debug\Sistran.SharedKernel.pdb
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\bin\Debug\SimpleInjector.xml
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\obj\Debug\Sistran.GestaoProduto.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\obj\Debug\Sistran.GestaoProduto.InfraEstruture.SqlEntityFramework.Migrations.Inicial.resources
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\obj\Debug\Sistran.GestaoProduto.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\obj\Debug\Sistran.GestaoProduto.dll
+C:\Users\User\Downloads\TestePraticoSistran\Sistran\src\Sistran.GestaoProduto\obj\Debug\Sistran.GestaoProduto.pdb
